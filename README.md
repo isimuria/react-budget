@@ -14,3 +14,7 @@ https://budget-app.mead.io/
 * Firebase Authentication
 * Testing
 * CI to Test & deploy
+
+## Note
+
+I coded this app by following/with help of react course of Andrew Mead
